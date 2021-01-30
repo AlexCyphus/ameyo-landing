@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ameyo-landing/static/css/main.3c81c0d1.chunk.css",
-    "main.js": "/ameyo-landing/static/js/main.262b1167.chunk.js",
-    "main.js.map": "/ameyo-landing/static/js/main.262b1167.chunk.js.map",
+    "main.css": "/ameyo-landing/static/css/main.e6179188.chunk.css",
+    "main.js": "/ameyo-landing/static/js/main.e2e1f26e.chunk.js",
+    "main.js.map": "/ameyo-landing/static/js/main.e2e1f26e.chunk.js.map",
     "runtime-main.js": "/ameyo-landing/static/js/runtime-main.b2ed1d14.js",
     "runtime-main.js.map": "/ameyo-landing/static/js/runtime-main.b2ed1d14.js.map",
     "static/css/2.150d169a.chunk.css": "/ameyo-landing/static/css/2.150d169a.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.41bae8a0.chunk.js.map": "/ameyo-landing/static/js/3.41bae8a0.chunk.js.map",
     "index.html": "/ameyo-landing/index.html",
     "static/css/2.150d169a.chunk.css.map": "/ameyo-landing/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.3c81c0d1.chunk.css.map": "/ameyo-landing/static/css/main.3c81c0d1.chunk.css.map",
+    "static/css/main.e6179188.chunk.css.map": "/ameyo-landing/static/css/main.e6179188.chunk.css.map",
     "static/js/2.48a455cb.chunk.js.LICENSE.txt": "/ameyo-landing/static/js/2.48a455cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b2ed1d14.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.48a455cb.chunk.js",
-    "static/css/main.3c81c0d1.chunk.css",
-    "static/js/main.262b1167.chunk.js"
+    "static/css/main.e6179188.chunk.css",
+    "static/js/main.e2e1f26e.chunk.js"
   ]
 }
